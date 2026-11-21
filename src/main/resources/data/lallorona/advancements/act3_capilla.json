@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "lallorona:vela_bendita"
+    },
+    "title": {
+      "text": "Las Campanas del Perdón"
+    },
+    "description": {
+      "text": "Resuelve el acertijo de la capilla y obtén la Vela Bendita."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "story_trigger": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "lallorona:act2_pueblo"
+}

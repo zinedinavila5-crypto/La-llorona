@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "lallorona:reliquia_cuna"
+    },
+    "title": {
+      "text": "El Último Lamento"
+    },
+    "description": {
+      "text": "Completa el ritual y libera el alma de Elena sin destruirla."
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "story_trigger": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "lallorona:act6_santuario"
+}

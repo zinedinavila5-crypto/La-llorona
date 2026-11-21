@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "lallorona:medallon_plata"
+    },
+    "title": {
+      "text": "La Verdad Bajo Tierra"
+    },
+    "description": {
+      "text": "Rompe los tres sellos de culpa en las catacumbas bajo la casa de Elena."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "story_trigger": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "lallorona:act4_bosque"
+}

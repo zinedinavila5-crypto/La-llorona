@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "lallorona:reliquia_cuna"
+    },
+    "title": {
+      "text": "Hacia el Último Lamento"
+    },
+    "description": {
+      "text": "Llega al Santuario del Río con todas las reliquias."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "story_trigger": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "lallorona:act5_casa"
+}

@@ -1,0 +1,37 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+logoFile="lallorona_logo.png"
+credits="Historia original, modelo 3D GeckoLib, animaciones, audios originales y sistema narrativo para Minecraft Forge 1.20.1"
+authors="${mod_authors}"
+description='''
+Aventura narrativa de terror inspirada en la leyenda de La Llorona.
+Explora el pueblo abandonado de San Mateo del Río, sobrevive a sus acechos y persecuciones,
+resuelve acertijos ancestrales y completa el Ritual del Último Lamento para liberar su alma sin destruirla.
+'''
+
+[[dependencies.${mod_id}]]
+    modId="forge"
+    mandatory=true
+    versionRange="${forge_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="geckolib"
+    mandatory=true
+    versionRange="[4.4,)"
+    ordering="AFTER"
+    side="BOTH"

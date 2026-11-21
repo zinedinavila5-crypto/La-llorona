@@ -1,0 +1,13 @@
+COMO OBTENER TU ARCHIVO UNICO `LaLlorona_CurseForge_LISTO.zip` (CON EL MOD YA COMPILADO, AUDIOS OGG, RESOURCE PACK Y DATAPACK ADENTRO):
+
+=== OPCION A (SIN INSTALAR NADA EN TU PC - 100% EN LA NUBE CON GITHUB GRATIS) ===
+1. Crea una cuenta o entra a https://github.com y crea un repositorio nuevo (puede ser Privado).
+2. Sube el contenido de esta carpeta (incluyendo la carpeta oculta `.github/workflows/build_curseforge_pack.yml`).
+3. Ve a la pestaña "Actions" de tu repositorio -> haz clic en "Construir Pack Único de CurseForge" -> pulsa "Run workflow".
+4. Espera ~2 minutos y descarga el archivo "LaLlorona_CurseForge_LISTO".
+5. Importa `LaLlorona_CurseForge_LISTO.zip` en CurseForge -> instala GeckoLib 1.20.1 desde el perfil -> Play.
+
+=== OPCION B (EN WINDOWS CON 1 DOBLE CLIC) ===
+1. Ten instalado Java 17, Gradle 8.8 y FFmpeg.
+2. Haz doble clic en `GENERAR_PACK_CURSEFORGE.bat`.
+3. Al terminar aparecera `LaLlorona_CurseForge_LISTO.zip` en esta misma carpeta, listo para importar en CurseForge.

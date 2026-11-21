@@ -1,0 +1,1 @@
+give @p minecraft:written_book{title:"Diario Húmedo de Elena",author:"Elena Morales",pages:['{"text":"Octubre de 1919.\n\nLa lluvia no cesa. Abracé a Mateo y a Sofía con la cinta de su cuna y corrí hacia la plaza pidiendo ayuda."}','{"text":"Nadie respondió. La corriente me los arrebató. Si alguien lee esto: devuélvanme su recuerdo en el santuario del río."}']} 1

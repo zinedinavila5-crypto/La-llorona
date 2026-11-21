@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "lallorona:frasco_agua_rio"
+    },
+    "title": {
+      "text": "Superviviente del Río"
+    },
+    "description": {
+      "text": "Sobrevive a la persecución en el bosque oscuro y el pantano."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "story_trigger": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "lallorona:act3_capilla"
+}

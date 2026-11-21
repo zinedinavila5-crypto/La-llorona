@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "lallorona:carta_parroco"
+    },
+    "title": {
+      "text": "Voces entre Ventanas"
+    },
+    "description": {
+      "text": "Explora las viviendas abandonadas y descubre el nombre de Elena."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "story_trigger": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "lallorona:act1_llegada"
+}

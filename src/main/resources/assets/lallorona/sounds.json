@@ -1,0 +1,110 @@
+{
+  "lamento_lejano": {
+    "subtitle": "subtitle.lallorona.lamento_lejano",
+    "sounds": [
+      {
+        "name": "lallorona:lamento_lejano",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "grito_sobrenatural": {
+    "subtitle": "subtitle.lallorona.grito_sobrenatural",
+    "sounds": [
+      {
+        "name": "lallorona:grito_sobrenatural",
+        "attenuation_distance": 56
+      }
+    ]
+  },
+  "susurros_habitacion": {
+    "subtitle": "subtitle.lallorona.susurros_habitacion",
+    "sounds": [
+      {
+        "name": "lallorona:susurros_habitacion",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "llanto_rio": {
+    "subtitle": "subtitle.lallorona.llanto_rio",
+    "sounds": [
+      {
+        "name": "lallorona:llanto_rio",
+        "attenuation_distance": 40
+      }
+    ]
+  },
+  "pasos_madera": {
+    "subtitle": "subtitle.lallorona.pasos_madera",
+    "sounds": [
+      {
+        "name": "lallorona:pasos_madera",
+        "attenuation_distance": 20
+      }
+    ]
+  },
+  "sonido_agua": {
+    "subtitle": "subtitle.lallorona.sonido_agua",
+    "sounds": [
+      {
+        "name": "lallorona:sonido_agua",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "viento_bosque": {
+    "subtitle": "subtitle.lallorona.viento_bosque",
+    "sounds": [
+      {
+        "name": "lallorona:viento_bosque",
+        "attenuation_distance": 40
+      }
+    ]
+  },
+  "puerta_chirrido": {
+    "subtitle": "subtitle.lallorona.puerta_chirrido",
+    "sounds": [
+      {
+        "name": "lallorona:puerta_chirrido",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "golpe_repentino": {
+    "subtitle": "subtitle.lallorona.golpe_repentino",
+    "sounds": [
+      {
+        "name": "lallorona:golpe_repentino",
+        "attenuation_distance": 28
+      }
+    ]
+  },
+  "musica_ambiental": {
+    "subtitle": "subtitle.lallorona.musica_ambiental",
+    "sounds": [
+      {
+        "name": "lallorona:musica_ambiental",
+        "stream": true
+      }
+    ]
+  },
+  "musica_persecucion": {
+    "subtitle": "subtitle.lallorona.musica_persecucion",
+    "sounds": [
+      {
+        "name": "lallorona:musica_persecucion",
+        "stream": true
+      }
+    ]
+  },
+  "musica_ritual_liberacion": {
+    "subtitle": "subtitle.lallorona.musica_ritual_liberacion",
+    "sounds": [
+      {
+        "name": "lallorona:musica_ritual_liberacion",
+        "stream": true
+      }
+    ]
+  }
+}

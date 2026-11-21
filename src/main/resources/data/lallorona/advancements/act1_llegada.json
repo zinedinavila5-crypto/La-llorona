@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "lallorona:linterna_aceite"
+    },
+    "title": {
+      "text": "San Mateo del Río"
+    },
+    "description": {
+      "text": "Llega al pueblo abandonado junto al río de niebla."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "background": "minecraft:textures/block/deepslate_bricks.png"
+  },
+  "criteria": {
+    "story_trigger": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

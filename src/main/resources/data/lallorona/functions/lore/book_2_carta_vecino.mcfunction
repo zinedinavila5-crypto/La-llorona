@@ -1,0 +1,1 @@
+give @p minecraft:written_book{title:"Carta de Don Aurelio",author:"Habitante de San Mateo",pages:['{"text":"No intenten enfrentarla con armas. Las balas solo atravesaron niebla húmeda.\n\nLa llamaban Elena antes de la inundación de 1919."}','{"text":"Aquella noche nadie abrió su puerta cuando el río se desbordó. El párroco guardó la verdad en la capilla del norte."}']} 1
